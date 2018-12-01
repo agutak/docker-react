@@ -12,6 +12,9 @@ class App extends Component {
             Hi there!
           </h1>
           <p>
+            I was changed!
+          </p>
+          <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <a
